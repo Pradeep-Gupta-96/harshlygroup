@@ -1,0 +1,15 @@
+table,tr,td,th{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+#sideBar {
+    width: 350px;
+    height: 100%;
+    background: #5c3502;
+  }
+  
+  .main {
+    max-width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+  }
